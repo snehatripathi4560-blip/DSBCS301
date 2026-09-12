@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/snehatripathi/Desktop/week3/output/problem2'
+relocations:     []
+...
